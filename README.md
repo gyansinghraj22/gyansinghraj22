@@ -1,9 +1,87 @@
-<h1 align="center">Hi 👋, I'm Gyan Singh</h1>
-<h3 align="center">A passionate Flutter developer from Nepal</h3>
+# Hi, I’m Gyan Singh Rajbanshi 👋
+**Flutter & Full-Stack Developer | Mobile & Web Apps | Clean Architecture Enthusiast**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+## About Me
+I am a passionate developer specializing in **Flutter** for cross-platform mobile apps and **Node.js** for backend services. I focus on building **scalable, maintainable, and high-performance applications** using **Clean Architecture** and modern state management solutions like **BLoC**.  
+
+I enjoy creating real-world applications, exploring **offline-first solutions**, integrating APIs, and implementing features like **authentication, data syncing, and analytics**.
+
+- 🔭 I’m currently building an **Expense Tracker App** with offline sync, charts, and advanced features.
+- 🌱 I’m continuously improving my **Flutter, BLoC, Firebase, and backend skills**.
+- 💬 Ask me about **Flutter, Clean Architecture, Hive, Firebase, or Node.js**.
+- 📫 Contact me: **gyansinghraj22@gmail.com**
+
+---
+
+## Skills
+
+**Mobile & Frontend:**
+- Flutter & Dart (Advanced)
+- Flutter BLoC (State Management)
+- Clean Architecture & SOLID Principles
+- Responsive UI & Theming (Dark Mode)
+- Animations & Custom Widgets
+- Offline Storage: Hive, SQLite
+
+**Backend & API:**
+- Node.js, Express
+- REST API design & consumption
+- Firebase Auth & Firestore
+- JWT Authentication & RBAC
+- MongoDB & SQL basics
+- Data syncing strategies
+
+**Tools & Others:**
+- Git & GitHub
+- VS Code / Android Studio
+- Postman / Insomnia
+- Agile workflow basics
+
+---
+
+## Featured Projects
+
+### 1️⃣ Expense Tracker App
+**Flutter + Firebase + Hive**  
+A full-featured **expense tracking app** with offline and online capabilities.  
+- Features: Budget & expense management, charts & analytics, local storage with Hive, Firebase sync, authentication, dark mode, multi-currency support, and notifications.  
+- Tech Stack: Flutter, Dart, Firebase, Hive, BLoC, Clean Architecture  
+- GitHub: [expense_tracker](https://github.com/gyansinghraj22/expense_tracker)  
+- Demo: *(Add link if deployed)*  
+
+---
+
+### 2️⃣ Task Manager App
+**Flutter + SQLite**  
+A **task management app** with offline-first features and data sync.  
+- Features: CRUD tasks, task categorization, offline storage, priority & due-date tracking  
+- Tech Stack: Flutter, Dart, SQLite, Hive, BLoC, Clean Architecture  
+- GitHub: [task_manager](https://github.com/gyansinghraj22/task_manager)  
+
+---
+
+### 3️⃣ Doctor Appointment & Telemedicine App
+**Flutter + Node.js Backend**  
+A **telemedicine solution** supporting doctor-patient appointments and chat/video sessions.  
+- Features: Authentication, doctor/patient profiles, appointments, chat, video calls, notifications  
+- Tech Stack: Flutter, Dart, Node.js, Express, MongoDB, REST APIs, BLoC, Clean Architecture  
+- GitHub: [doctor_appointment_app](https://github.com/gyansinghraj22/doctor_appointment_app)  
+
+---
+
+## GitHub Stats
+![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyansinghraj22&show_icons=true&theme=radical)
+
+---
+
+## Contact Me
+- Email: gyansinghraj22@gmail.com  
+- LinkedIn: [linkedin.com/in/gyansinghraj22](https://www.linkedin.com/in/gyansinghraj22)  
+- Portfolio Website: *(Add if available)*  
+
+---
+
+## Let’s Connect!
+I’m always open to **collaborating on Flutter, Node.js, or full-stack projects** and learning new technologies to **deliver professional, production-ready apps**.
