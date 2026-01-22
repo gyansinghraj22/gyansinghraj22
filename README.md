@@ -11,7 +11,7 @@ I enjoy creating real-world applications, exploring **offline-first solutions**,
 - 🔭 I’m currently building an **Expense Tracker App** with offline sync, charts, and advanced features.
 - 🌱 I’m continuously improving my **Flutter, BLoC, Firebase, and backend skills**.
 - 💬 Ask me about **Flutter, Clean Architecture, Hive, Firebase, or Node.js**.
-- 📫 Contact me: **gyansinghraj22@gmail.com**
+- 📫 Contact me: **gyansinghrajbanshi4@gmail.com**
 
 ---
 
