@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I am a passionate developer specializing in **Flutter** for cross-platform mobile apps and **Node.js** for backend services. I focus on building **scalable, maintainable, and high-performance applications** using **Clean Architecture** and modern state management solutions like **BLoC**.  
+I am a passionate developer specializing in **Flutter** for cross-platform mobile apps and **Spring Boot Kotlin** for backend services. I focus on building **scalable, maintainable, and high-performance applications** using **Clean Architecture** and modern state management solutions like **BLoC**.  
 
 I enjoy creating real-world applications, exploring **offline-first solutions**, integrating APIs, and implementing features like **authentication, data syncing, and analytics**.
 
@@ -26,56 +26,20 @@ I enjoy creating real-world applications, exploring **offline-first solutions**,
 - Offline Storage: Hive, SQLite
 
 **Backend & API:**
-- Node.js, Express
+- Spring Boot Kotlin
 - REST API design & consumption
 - Firebase Auth & Firestore
 - JWT Authentication & RBAC
-- MongoDB & SQL basics
+- MongoDB & SQL basics / Postgress
 - Data syncing strategies
 
 **Tools & Others:**
 - Git & GitHub
-- VS Code / Android Studio
-- Postman / Insomnia
+- VS Code / Android Studio / Intellij
+- Postman 
 - Agile workflow basics
 
 ---
-
-## Featured Projects
-
-### 1️⃣ Expense Tracker App
-**Flutter + Firebase + Hive**  
-A full-featured **expense tracking app** with offline and online capabilities.  
-- Features: Budget & expense management, charts & analytics, local storage with Hive, Firebase sync, authentication, dark mode, multi-currency support, and notifications.  
-- Tech Stack: Flutter, Dart, Firebase, Hive, BLoC, Clean Architecture  
-- GitHub: [expense_tracker](https://github.com/gyansinghraj22/expense_tracker)  
-- Demo: *(Add link if deployed)*  
-
----
-
-### 2️⃣ Task Manager App
-**Flutter + SQLite**  
-A **task management app** with offline-first features and data sync.  
-- Features: CRUD tasks, task categorization, offline storage, priority & due-date tracking  
-- Tech Stack: Flutter, Dart, SQLite, Hive, BLoC, Clean Architecture  
-- GitHub: [task_manager](https://github.com/gyansinghraj22/task_manager)  
-
----
-
-### 3️⃣ Doctor Appointment & Telemedicine App
-**Flutter + Node.js Backend**  
-A **telemedicine solution** supporting doctor-patient appointments and chat/video sessions.  
-- Features: Authentication, doctor/patient profiles, appointments, chat, video calls, notifications  
-- Tech Stack: Flutter, Dart, Node.js, Express, MongoDB, REST APIs, BLoC, Clean Architecture  
-- GitHub: [doctor_appointment_app](https://github.com/gyansinghraj22/doctor_appointment_app)  
-
----
-
-## GitHub Stats
-![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyansinghraj22&show_icons=true&theme=radical)
-
----
-
 ## Contact Me
 - Email: gyansinghraj22@gmail.com  
 - LinkedIn: [linkedin.com/in/gyansinghraj22](https://www.linkedin.com/in/gyansinghraj22)  
